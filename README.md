@@ -1,4 +1,4 @@
-# PSL 09 Data Analysis Project 🚀🏏
+## PSL 09 Data Analysis Project 🚀🏏
 
 Welcome to my PSL 09 Data Analysis Project! This project utilizes numpy, pandas, seaborn, and matplotlib to analyze data from the latest PSL season. 
 
@@ -11,6 +11,7 @@ Welcome to my PSL 09 Data Analysis Project! This project utilizes numpy, pandas,
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
+- [Stay Connected](#stay-connected)
 
 ## Introduction 📊
 This project is an end-to-end data analysis of PSL 09. It involves data wrangling, visualization, and interpretation to uncover fascinating insights and trends. The goal is to enhance my data analysis skills and build a comprehensive portfolio piece.
@@ -28,34 +29,31 @@ To run this project, you will need to install the following libraries:
 You can install these using pip:
 ```bash
 pip install numpy pandas seaborn matplotlib
-Usage 💻
+```
+
+## Usage 💻
 Clone the repository and navigate to the project directory:
+```bash
+git clone https://github.com/M-Awais-Hussain/psl09-analysis.git
+```
 
-bash
-Copy code
-git clone https://github.com/yourusername/psl09-analysis.git
-cd psl09-analysis
-Run the Jupyter notebook to see the analysis:
-
-bash
-Copy code
-jupyter notebook PSL09_Analysis.ipynb
-Analysis 🔍
+## Analysis 🔍
 The analysis includes:
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizations using seaborn and matplotlib
+- Statistical Analysis
 
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Visualizations using seaborn and matplotlib
-Statistical Analysis
-Results 📈
+## Results 📈
 The results section showcases the insights gained from the data analysis, including player performance trends, team comparisons, and key match outcomes.
 
-Contributing 🤝
+## Contributing 🤝
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-License 📜
+## License 📜
 This project is licensed under the MIT License.
 
-Stay Connected 🌐
-LinkedIn: Muhammad Awais Hussain
+## Stay Connected 🌐
+LinkedIn: [Muhammad Awais Hussain](https://www.linkedin.com/in/muhammad-awais-hussain-4424b1232/)
+
 Thank you for checking out my project! 🎉
